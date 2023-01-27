@@ -12,5 +12,5 @@ FireNarky/FireNarky is a ✨ special ✨ repository because its `README.md` (thi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireNarky&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FireNarky&left_color=green&right_color=red)
 https://visitor-badge.glitch.me/badge?page_id=FireNarky.visitor-badge
