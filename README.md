@@ -10,9 +10,7 @@
 FireNarky/FireNarky is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FireNarky)](https://git.io/streak-stats)![FireNarky's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireNarky&show_icons=true&theme=transparent)
-
-![FireNarky's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireNarky&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FireNarky)](https://git.io/streak-stats)  ![FireNarky's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireNarky&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireNarky&layout=compact)
 
