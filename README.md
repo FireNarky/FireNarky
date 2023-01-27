@@ -8,3 +8,5 @@
 FireNarky/FireNarky is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
 ![FireNarky's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireNarky&show_icons=true&theme=transparent)
+
+![FireNarky's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireNarky&count_private=true)
