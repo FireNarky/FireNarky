@@ -12,8 +12,6 @@ FireNarky/FireNarky is a ✨ special ✨ repository because its `README.md` (thi
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=firenarky&show_icons=true&locale=en" alt="firenarky" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firenarky&" alt="firenarky" /></p>
 
-
-
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: inline-block;">
         <img src="https://github-profile-trophy.vercel.app/?username=firenarky" alt="firenarky" />
